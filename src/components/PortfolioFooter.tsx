@@ -1,9 +1,7 @@
 const PortfolioFooter = () => {
   return <footer className="max-w-[1600px] mx-auto px-3 md:px-5 pb-16">
       <div className="text-center text-[10px] uppercase tracking-widest font-inter text-muted-foreground">
-        <a href="mailto:hello@morganblake.com" className="hover:text-foreground transition-colors">
-          E: hello@morganblake.com
-        </a>
+        <a href="mailto:hello@morganblake.com" className="hover:text-foreground transition-colors">E: MOHOJJE@GMAIL.COM</a>
         <span className="mx-2">/</span>
         <a href="tel:+442071234567" className="hover:text-foreground transition-colors">M: +27 64 486 5413</a>
         <span className="mx-2">/</span>
